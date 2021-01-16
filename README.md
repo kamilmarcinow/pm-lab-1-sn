@@ -6,7 +6,7 @@ Wersja: v1.0
 Data:   03.04.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Kamil Marcinowski 
+Imię i nazwisko studenta:   Kamil Marcinowski
 Numer albumu:               60929  
 Grupa studencka:            WEL18DE1N1
 
