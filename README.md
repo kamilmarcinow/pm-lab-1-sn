@@ -7,7 +7,7 @@ Data:   16.01.2021 r.
 
 # Informacje o studencie
 Imię i nazwisko studenta:   Kamil Marcinowski
-Numer albumu:               6092  
+Numer albumu:               60929  
 Grupa studencka:            WEL18DE1N1
 
 # Pytania do zadań z instrukcji
